@@ -1,0 +1,3 @@
+日記コマンド
+lf 高速化(HDD/SSDとregexpの切り離し)
+filebase 高速化(読み出し、書き出しのstream)
